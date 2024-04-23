@@ -5,4 +5,4 @@ Python script that permit to run multiple ping for an entire subnet
 
 - Python 3
 - Linux Instance
-- **pythonping** Python Library
+- ***pythonping*** Python Library
